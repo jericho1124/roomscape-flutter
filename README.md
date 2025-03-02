@@ -1,6 +1,6 @@
 # RoomScape - Flutter E-commerce App
 
-A modern e-commerce application built with Flutter for selling home improvement products like walls and floors.
+A modern e-commerce application built with Flutter for selling products like wall and floor designs.
 
 Features
 
