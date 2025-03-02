@@ -1,0 +1,12 @@
+repository:
+  # Hide the Issues tab
+  has_issues: false
+  
+  # Hide the Projects tab
+  has_projects: false
+  
+  # Hide the Wiki tab
+  has_wiki: false
+  
+  # Hide discussions
+  has_discussions: false 
