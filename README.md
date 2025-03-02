@@ -11,5 +11,6 @@ Features
 -  User authentication
 -  Responsive design
 -  Modern UI/UX
+-  Augmented Reality
 
 
